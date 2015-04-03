@@ -1,7 +1,3 @@
-//
-// Created by Herb Derby on 4/3/15.
-//
-
 #include <string>
 #include "benchmark/benchmark.h"
 
